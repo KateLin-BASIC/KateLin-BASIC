@@ -15,4 +15,4 @@
 
 #### Team 💬
 - [Team WAVE](https://teamwv.ml) : 팀원
-- [Acentic](https://acentic.kr) : ~~다른거는 쓱싹당해서 프로젝트 하나로 갱생하고 있는~~ 팀원
+- [Acentic](https://acentic.kr) : 팀원
