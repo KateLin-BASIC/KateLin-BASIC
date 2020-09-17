@@ -1,16 +1,18 @@
-### Hi there 👋
+### [Kate Lin](https://www.katelin.xyz) 👋
+안녕하세요! BASIC을 사랑하는 개발자 Kate Lin입니다!
 
-<!--
-**KateLin-BASIC/KateLin-BASIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Language 🧪
+- BASIC, VB, VB.Net, ASP.Net, Javascript, ~~HTML~~
 
-Here are some ideas to get you started:
+#### Project 🔭
+- [Aurore](https://github.com/KateLin-BASIC/Aurore.ga) : ASP.Net 기반 MVC URL 단축기
+- [KLParser](https://github.com/KateLin-BASIC/KLParser) : 웹 페이지 긁어오는 앱
+- [FortranPi](https://github.com/KateLin-BASIC/FortranPi) : 포트란으로 작성된 원주율 계산기
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact 🤙
+- Email : juni070127@gmail.com / admin@katelin.xyz
+- Discord : Kate Lin#6963
+
+#### Team 💬
+- [Team WAVE](https://teamwv.ml) : 팀원
+- [Acentic](https://acentic.kr) : ~~다른거는 쓱싹당해서 프로젝트 하나로 갱생하고 있는~~ 팀원
