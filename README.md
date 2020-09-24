@@ -15,4 +15,4 @@
 
 #### Team 💬
 - [Team WAVE](https://teamwv.ml) : 팀원
-- [Acentic](https://acentic.kr) : 팀원
+- [Nameless](https://nameless.kr) : 팀원
