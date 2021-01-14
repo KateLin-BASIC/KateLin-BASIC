@@ -1,8 +1,8 @@
 ### [Kate Lin](https://www.katelin.xyz) 👋
-안녕하세요! BASIC을 사랑하는 개발자 Kate Lin입니다!
+안녕하세요! BASIC을 사랑했었던 개발자 Kate Lin입니다!
 
 #### Language 🧪
-- BASIC, VB, VB.Net, ASP.Net, Javascript, ~~HTML~~
+- C#, BASIC, VB, VB.Net, ASP.Net, Javascript, ~~HTML~~
 
 #### Project 🔭
 - [Aurore](https://github.com/KateLin-BASIC/Aurore.ga) : ASP.Net 기반 MVC URL 단축기
