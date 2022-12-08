@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KateLin-BASIC/KateLin-BASIC/main/assets/avatar.png" style="width: 300px; height: 300px;"/>
   <h1>Hello, World!</h1>
   <p align="center">논리보다 유머를 사랑하는 개발자, Kate Lin입니다.</p>
   <br/>
