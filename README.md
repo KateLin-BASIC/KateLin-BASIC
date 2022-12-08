@@ -14,7 +14,7 @@
   
   <div align="left">
       <details>
-        <summary>🔧 Visual Basic (VB.Net, B4X)</summary>
+        <summary>🔧 베이직 계열 언어 (VB.Net, B4X, Hollywood-MAL)</summary>
           <p>제가 스크래치 같은 블록 코딩에서 벗어나 처음으로 사용해본 프로그래밍 언어입니다. 더 이상 실전에서 자주 사용하지는 않지만 저에게 있어 의미가 깊은 언어입니다.</p>
       </details>
   </div>
